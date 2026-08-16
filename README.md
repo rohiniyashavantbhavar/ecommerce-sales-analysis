@@ -57,6 +57,7 @@ Identified the products generating the highest revenue.
 ### 3. Top 10 Countries by Revenue
 
 Compared revenue generated across different countries.
+![Top 10 Countries by Revenue](top_10_countries_chart.png)
 
 ### 4. Top 10 Customers by Revenue
 
