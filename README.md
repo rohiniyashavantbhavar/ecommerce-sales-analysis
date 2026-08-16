@@ -52,6 +52,7 @@ Analyzed revenue across months to identify changes in sales performance.
 ### 2. Top 10 Products by Revenue
 
 Identified the products generating the highest revenue.
+![Top 10 Products by Revenue](top_10_products_chart.png)
 
 ### 3. Top 10 Countries by Revenue
 
