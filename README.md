@@ -47,6 +47,7 @@ The dataset was cleaned by:
 ### 1. Monthly Revenue Trend
 
 Analyzed revenue across months to identify changes in sales performance.
+![Monthly Revenue Trend](monthly_revenue_trend.png)
 
 ### 2. Top 10 Products by Revenue
 
