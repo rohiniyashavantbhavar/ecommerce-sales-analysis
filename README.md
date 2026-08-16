@@ -62,6 +62,7 @@ Compared revenue generated across different countries.
 ### 4. Top 10 Customers by Revenue
 
 Identified customers contributing the highest revenue.
+![Top 10 Customers by Revenue](top_10_customers_chart.png)
 
 ## Key Insights
 
